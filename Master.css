@@ -47,6 +47,7 @@ margin-left: 130px;
   margin-left: 200px;
   float: left;
   transition: width 1s ease;
+  border-radius: 15px;
 }
 .happy_people1:hover{
   width:300px;
@@ -62,6 +63,7 @@ margin-left: 130px;
   float: right;
   margin-right: 200px;
   transition: width 1s ease;
+  border-radius: 15px;
 }
 .happy_people2:hover{
   width: 350px;
